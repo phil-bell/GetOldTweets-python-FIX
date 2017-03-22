@@ -4,4 +4,4 @@ Fix to GOT after twitter change the class name for the username. It will now ret
 Anyone is welcome to clone this repo until origional if fixed.
 
 
-You can find the origional repo with its documentation [here](https://github.com/Jefferson-Henrique/GetOldTweets-python)
+You can find the origional repo with its documentation [here](https://github.com/Jefferson-Henrique/GetOldTweets-python).
