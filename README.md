@@ -2,6 +2,7 @@
 Fix to GOT after twitter change the class name for the username. It will now return the username when requested.
 
 Twitter have changed the class name for the username from `username js-action-profile-name` to `username u-dir`.
+
 To fix it I changed line 35 in `got3/manager/TweetManager.py` and line 38 in `got/manager/TweetManager.py` from:
 ```
 usernameTweet = tweetPQ("span.username.js-action-profile-name b").text();
