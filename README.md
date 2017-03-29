@@ -14,6 +14,6 @@ usernameTweet = tweetPQ("span.username.u-dir b").text();
 
 Anyone is welcome to clone this repo.
 
-I will attempt to maintain GetOldTweets until the origional is updated.
+I will attempt to maintain GetOldTweets until the original is updated.
 
 You can find the origional repo with its documentation **[here](https://github.com/Jefferson-Henrique/GetOldTweets-python)**.
